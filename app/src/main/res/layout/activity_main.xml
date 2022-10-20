@@ -211,7 +211,7 @@
                         android:translationY="-8dp">
                         <TextView
                             android:id="@+id/tvOptionsData"
-                            android:layout_width="match_parent"
+                            android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:background="@drawable/bgdatabotton"
                             android:fontFamily="@font/robotobold"
