@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">horseGame</string>
+    <string name="title">horse Challenge</string>
+    <string name="level">level</string>
+    <string name="moves">moves</string>
+    <string name="time">time</string>
+    <string name="lives">lives</string>
+    <string name="options">options</string>
+    <string name="instructions">move the horse over board to complete all cells</string>
+    <string name="credits">game created by santixor</string>
+    <string name="premium">tap here to remove ads, get more levels and unlimited lives</string>
+    <string name="premiunTitle">get premiun access forever</string>
+    <string name="premiumBenefit">no more ads</string>
+    <string name="premiumBenefit2">unlimited live</string>
+    <string name="premiumBenefit3">keep your reached level</string>
+    <string name="pay">PAY ONLY $1 NOW</string>
+</resources>
